@@ -1,5 +1,7 @@
 # Metodologia
 
+**Autor:** Juan Matheus Rebello Santos — o hacker cego
+
 Esta auditoria foi feita de fora, sem acesso a nenhum sistema interno, com requisições
 HTTP públicas. O objetivo era responder uma pergunta simples: quantos endereços públicos
 brasileiros ainda servem página de aposta ao robô do Google?

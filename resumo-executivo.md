@@ -1,4 +1,6 @@
-# Café com Cyber — resumo executivo da apuração
+# Resumo executivo da apuração
+
+**Por Juan Matheus Rebello Santos — o hacker cego**
 
 **Data:** 30/10/2026
 **Escopo:** subdomínios de órgãos públicos brasileiros que servem páginas de aposta

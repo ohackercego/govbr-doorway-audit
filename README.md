@@ -1,7 +1,7 @@
 # Auditoria independente: doorways de aposta em domínios públicos brasileiros
 
 **Data da coleta:** 30 de outubro de 2026
-**Autor:** pesquisador independente de segurança cibernética (sem vínculo com governo ou empresa)
+**Autor:** Juan Matheus Rebello Santos — o hacker cego (pesquisador independente, sem vínculo com governo ou empresa)
 **Contato:** abra uma issue neste repositório
 
 ---
