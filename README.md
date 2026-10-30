@@ -34,9 +34,10 @@ partir de subdomínios municipais.
 
 ## Conteúdo do repositório
 
+A matéria jornalística não é publicada aqui: este repositório guarda dados, método, código e o relatório técnico, que é o que precisa ser auditado.
+
 | arquivo | o que é |
 |---|---|
-| `artigo.md` / `artigo.pdf` | matéria completa, em primeira pessoa |
 | `relatorio-tecnico.md` / `.pdf` | relatório com os 304 hosts, IPs e evidências |
 | `resumo-executivo.md` / `.pdf` | uma página com números e achados |
 | `dados/confirmados.csv` | host, IP, evidência e link de exemplo (separador `;`) |
